@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Foto estilo Polaroid personalizada</title>
+  <desc id="desc">Foto instantânea com moldura Polaroid</desc>
+  <g stroke="#C94A64" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="12" y="8" width="40" height="48" rx="5" fill="#FDF1F2" stroke="#C94A64" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    <rect x="18" y="14" width="28" height="25" rx="2" fill="white" stroke="#C94A64" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    <circle cx="39" cy="21" r="2.5" stroke="#C94A64" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="m19 37 8-8 6 5 4-4 9 9" stroke="#C94A64" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M24 47h16" stroke="#C94A64" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+</svg>
