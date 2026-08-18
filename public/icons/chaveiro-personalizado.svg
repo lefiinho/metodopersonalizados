@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Chaveiro personalizado</title>
+  <desc id="desc">Argola de chaveiro com pingente de foto personalizado</desc>
+  <g stroke="#C94A64" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="22" cy="18" r="9" fill="#FDF1F2" stroke="#C94A64" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M28.5 24.5 34 30" stroke="#C94A64" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M31 28.5h6v5" stroke="#C94A64" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    <rect x="29" y="31" width="23" height="22" rx="4" fill="#FDF1F2" stroke="#C94A64" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    <circle cx="38" cy="39" r="3" stroke="#C94A64" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="m32.5 49 6-5 4 3 4.5-5 4.5 7" stroke="#C94A64" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+</svg>
